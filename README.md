@@ -1,6 +1,6 @@
 # BYOD AI Workshop
 
-## Machine Learning and You: A Whirlwind Tour
+## https://bit.ly/BYOD\_AI\_WS
 
 Location:
 RFP 214 / 215
