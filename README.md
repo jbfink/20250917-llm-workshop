@@ -1,6 +1,6 @@
 # BYOD AI Workshop
 
-## https://bit.ly/BYOD\_AI\_WS
+## https://bit.ly/BYOD_AI_WS
 
 Location:
 RFP 214 / 215
