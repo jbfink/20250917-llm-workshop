@@ -17,7 +17,7 @@ Large Language Models have exploded in popularity in the past 2 years prompting 
 
 ## Setup
 
-Due to the fact that working that models uses rather large files we'll try to download them directly from the platform or from this tutorial website. We don't want to spend most of our time together just looking at download progress bars.
+
 
 ### Please Install
 
