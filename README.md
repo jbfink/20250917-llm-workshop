@@ -22,7 +22,7 @@ Large Language Models have exploded in popularity in the past 2 years prompting 
 ### Please Install
 
 [GPT4ALL](https://www.nomic.ai/gpt4all) - This will be the client program that we run on your laptop. This will run the different models that we will experiment with.
-There are many different platforms that help you run an LLM on your local machine. ([Jan](https://jan.ai/) is a good one to try next.) The reason we are using GPT4ALL is that is has built in [Retrieval Augmented Generation](https://elibtronic.github.io/AIL_Database/items/ail_026.html) built in.
+There are many different platforms that help you run an LLM on your local machine. ([Jan](https://jan.ai/) is a good one to try next.) The reason we are using GPT4ALL is that is has [Retrieval Augmented Generation](https://elibtronic.github.io/AIL_Database/items/ail_026.html) built in.
 
 ### Download Data Set
 
